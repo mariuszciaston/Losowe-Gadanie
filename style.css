@@ -1,0 +1,35 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#button {
+	width: 200px;
+	height: 200px;
+	border: none;
+	border-radius: 50%;
+	background-color: red;
+	color: white;
+	font-size: 32px;
+	cursor: pointer;
+}
+
+#text {
+	font-size: 24px;
+	color:black;
+	font-weight: 600;
+	transition:  1s ease;
+	opacity: 0;
+}
+
+#text.show{
+	opacity: 1;
+
+}
+
+
+#postac{
+	width: 320px;
+}
+
+
