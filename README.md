@@ -1,0 +1,1 @@
+# Losowe-Gadanie
